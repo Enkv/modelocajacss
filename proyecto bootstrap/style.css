@@ -1,0 +1,28 @@
+.caja1{
+    background-color: brown;
+}
+.caja2{
+    background-color: aquamarine;
+}
+.caja3{
+    background-color: blue;
+}
+.caja4{
+    background-color: chartreuse;
+}
+.caja5{
+    background-color: deeppink;
+}
+.col1{
+    background-color: forestgreen;
+}
+.col2{
+    background-color: greenyellow;
+}
+.col3{
+    background-color: blueviolet;
+}
+.row{
+    padding: 20px;
+    background-color: black;
+}
